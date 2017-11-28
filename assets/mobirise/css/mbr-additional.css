@@ -1801,6 +1801,57 @@ body {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
+.cid-qCiUSvJpMJ {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qCiUSvJpMJ .mbr-text {
+  color: #767676;
+}
+.cid-qCiUSvJpMJ .media-container-row {
+  flex-wrap: wrap;
+}
+.cid-qCiUSvJpMJ .card-item {
+  display: flex;
+  justify-content: flex-start;
+}
+.cid-qCiUSvJpMJ .card-item .card-icon {
+  margin: 0 0.5rem 1rem;
+}
+.cid-qCiUSvJpMJ .card-item .card-icon span {
+  font-size: 4rem;
+  padding: 0.5rem;
+  color: #4284df;
+  -webkit-transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
+  -moz-transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
+  transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
+}
+.cid-qCiUSvJpMJ .card-item:hover .card-icon span {
+  -webkit-transform: translate3d(0, -5px, 0);
+  -moz-transform: translate3d(0, -5px, 0);
+  transform: translate3d(0, -5px, 0);
+}
+@media (min-width: 577px) {
+  .cid-qCiUSvJpMJ .card-item .card-icon {
+    margin-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-qCiUSvJpMJ .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+@media (max-width: 576px) {
+  .cid-qCiUSvJpMJ .card-item {
+    padding: 0 0 1rem!important;
+  }
+  .cid-qCiUSvJpMJ .card-item .card-icon span {
+    font-size: 3rem;
+  }
+}
 .cid-qCit0SPikC {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1906,47 +1957,5 @@ body {
   }
   .cid-qCit0SPikC .img-block {
     overflow: hidden;
-  }
-}
-.cid-qCiPNfV9IY {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qCiPNfV9IY h4 {
-  font-weight: 600;
-  color: #e2e2e2;
-}
-.cid-qCiPNfV9IY .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qCiPNfV9IY .article {
-  padding-right: 2rem;
-  padding-left: 2rem;
-}
-@media (min-width: 992px) {
-  .cid-qCiPNfV9IY .article-right-border {
-    border-right: 2px dotted #e2e2e2;
-  }
-}
-.cid-qCiRNXXU87 {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-qCiRNXXU87 h4 {
-  font-weight: 600;
-  color: #e2e2e2;
-}
-.cid-qCiRNXXU87 .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qCiRNXXU87 .article {
-  padding-right: 2rem;
-  padding-left: 2rem;
-}
-@media (min-width: 992px) {
-  .cid-qCiRNXXU87 .article-right-border {
-    border-right: 2px dotted #e2e2e2;
   }
 }
