@@ -1444,7 +1444,7 @@ body {
   color: #4284df;
 }
 .cid-qCipF7NI5e {
-  background-image: url("../../../assets/images/mbr-1350x1080.jpg");
+  background-image: url("../../../assets/images/uss-halsey-ddg-97-2000x1333.jpg");
 }
 .cid-qCipF7NI5e .media-container-column .btn-bgr {
   z-index: 0;
@@ -1855,7 +1855,7 @@ body {
 .cid-qCit0SPikC {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/uss-louisville-ssn-724-into-port-1024x683.jpg");
 }
 .cid-qCit0SPikC h2,
 .cid-qCit0SPikC h3,
@@ -1958,4 +1958,16 @@ body {
   .cid-qCit0SPikC .img-block {
     overflow: hidden;
   }
+}
+.cid-qCit0SPikC .content-title {
+  color: #ffffff;
+}
+.cid-qCit0SPikC .content-subtitle {
+  color: #ffffff;
+}
+.cid-qCit0SPikC .list-item-title {
+  color: #ffffff;
+}
+.cid-qCit0SPikC .list-item-text {
+  color: #ffffff;
 }
